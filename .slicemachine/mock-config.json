@@ -1,0 +1,31 @@
+{
+  "slices": {
+    "ExampleSection": [
+      {
+        "variation": "default-slice",
+        "name": "Default slice",
+        "slice_type": "example_section",
+        "items": [],
+        "primary": {
+          "title": [
+            {
+              "type": "heading1",
+              "text": "Architect collaborative supply-chains",
+              "spans": []
+            }
+          ],
+          "description": [
+            {
+              "type": "paragraph",
+              "text": "Non aute id reprehenderit eu nostrud enim eiusmod cillum labore fugiat nostrud laborum. Officia ad esse dolor magna nostrud aliquip do aliquip do sit id amet voluptate magna cillum.",
+              "spans": []
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "_cts": {
+    "home": {}
+  }
+}

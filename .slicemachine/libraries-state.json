@@ -1,0 +1,82 @@
+{
+  "slices": {
+    "components": {
+      "example_section": {
+        "library": "slices",
+        "id": "example_section",
+        "name": "ExampleSection",
+        "description": "ExampleSection",
+        "model": {
+          "id": "example_section",
+          "type": "SharedSlice",
+          "name": "ExampleSection",
+          "description": "ExampleSection",
+          "variations": [
+            {
+              "id": "default-slice",
+              "name": "Default slice",
+              "docURL": "...",
+              "version": "sktwi1xtmkfgx8626",
+              "description": "ExampleSection",
+              "primary": {
+                "title": {
+                  "type": "StructuredText",
+                  "config": {
+                    "single": "heading1",
+                    "label": "Title",
+                    "placeholder": "This is where it all begins..."
+                  }
+                },
+                "description": {
+                  "type": "StructuredText",
+                  "config": {
+                    "single": "paragraph",
+                    "label": "Description",
+                    "placeholder": "A nice description of your feature"
+                  }
+                }
+              },
+              "items": {}
+            }
+          ]
+        },
+        "mocks": {
+          "default-slice": {
+            "variation": "default-slice",
+            "name": "Default slice",
+            "slice_type": "example_section",
+            "items": [],
+            "primary": {
+              "title": [
+                {
+                  "type": "heading1",
+                  "text": "Transition ubiquitous portals",
+                  "spans": []
+                }
+              ],
+              "description": [
+                {
+                  "type": "paragraph",
+                  "text": "Fugiat dolor sunt quis dolor dolore. Magna ipsum proident dolore quis.",
+                  "spans": []
+                }
+              ]
+            }
+          }
+        },
+        "meta": {
+          "fileName": "index",
+          "isDirectory": true,
+          "extension": "tsx"
+        },
+        "screenshotPaths": {
+          "default-slice": {
+            "path": "/Users/sarahwilsoncook/Documents/slicemachine-template/.slicemachine/assets/slices/ExampleSection/default-slice/preview.png",
+            "width": 800,
+            "height": 242
+          }
+        }
+      }
+    }
+  }
+}

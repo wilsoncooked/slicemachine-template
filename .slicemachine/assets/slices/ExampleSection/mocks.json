@@ -1,0 +1,24 @@
+[
+  {
+    "variation": "default-slice",
+    "name": "Default slice",
+    "slice_type": "example_section",
+    "items": [],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Transition ubiquitous portals",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Fugiat dolor sunt quis dolor dolore. Magna ipsum proident dolore quis.",
+          "spans": []
+        }
+      ]
+    }
+  }
+]
